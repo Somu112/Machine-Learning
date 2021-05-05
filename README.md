@@ -1,2 +1,2 @@
-# Machine-Learming
+# Machine-Learning
 This is basic classification data where i learn using all models and comparing with Pycaret whisch is awesome feature...
